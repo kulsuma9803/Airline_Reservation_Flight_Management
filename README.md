@@ -26,7 +26,7 @@ This system manages flight operations, ticket booking, cancellation, admin contr
 - Java
 - NetBeans IDE
 ## How to Run
-Compile:
-   javac AirlineSystem.java
+Compile
+-javac AirlineSystem.java
 Run:
-   java AirlineSystem
+-java AirlineSystem
